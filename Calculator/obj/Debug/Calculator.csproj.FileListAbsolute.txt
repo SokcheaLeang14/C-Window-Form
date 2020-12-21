@@ -1,0 +1,9 @@
+c:\users\sokchea\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\sokchea\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\sokchea\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\sokchea\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\sokchea\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+c:\users\sokchea\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\sokchea\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\sokchea\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\sokchea\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
